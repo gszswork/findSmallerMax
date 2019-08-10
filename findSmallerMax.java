@@ -1,5 +1,3 @@
-package test;
-
 /*
  *  author:gszswork
  *  Question:Given a number 'X', output the largest number smaller than the number 'X' that can be obtained
